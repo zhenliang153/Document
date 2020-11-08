@@ -1,0 +1,9 @@
+#C++性能篇
+在日常C++开发中，有些需要关注的点，用得不好的话很可能会有不必要的性能消耗。
+网上相关资料非常多，这里用最通俗易懂的方式，面向最基础的同学总结一下，不合理之处欢迎指正。
+##emplace/emplace_back
+##move
+##reserve
+##string::substr
+##vector与list
+##map与unordered_map
